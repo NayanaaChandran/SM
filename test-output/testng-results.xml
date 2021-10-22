@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-21T23:50:54Z" name="Survey Monkey Regression Suite" finished-at="2021-10-21T23:51:16Z" duration-ms="22000">
+    <groups>
+    </groups>
+    <test started-at="2021-10-21T23:50:54Z" name="TC001_Login_Test" finished-at="2021-10-21T23:51:08Z" duration-ms="14438">
+      <class name="com.SM.testCases.TC001_Login_Test">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.SM.testCases.TC001_Login_Test@74cadd41]" started-at="2021-10-21T23:50:54Z" name="setup" finished-at="2021-10-21T23:50:59Z" duration-ms="5245" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.SM.testCases.TC001_Login_Test@74cadd41]" started-at="2021-10-21T23:50:59Z" name="loginTest" finished-at="2021-10-21T23:51:07Z" duration-ms="8331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SM.testCases.TC001_Login_Test@74cadd41]" started-at="2021-10-21T23:51:07Z" name="tearDown" finished-at="2021-10-21T23:51:08Z" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SM.testCases.TC001_Login_Test -->
+    </test> <!-- TC001_Login_Test -->
+    <test started-at="2021-10-21T23:51:09Z" name="TC002_CheckSignUpLink_Test" finished-at="2021-10-21T23:51:16Z" duration-ms="7133">
+      <class name="com.SM.testCases.TC002_CheckSignUpLink_Test">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.SM.testCases.TC002_CheckSignUpLink_Test@34a97744]" started-at="2021-10-21T23:51:09Z" name="setup" finished-at="2021-10-21T23:51:13Z" duration-ms="4722" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkSignUpLinkTest()[pri:0, instance:com.SM.testCases.TC002_CheckSignUpLink_Test@34a97744]" started-at="2021-10-21T23:51:13Z" name="checkSignUpLinkTest" finished-at="2021-10-21T23:51:15Z" duration-ms="1711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSignUpLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SM.testCases.TC002_CheckSignUpLink_Test@34a97744]" started-at="2021-10-21T23:51:15Z" name="tearDown" finished-at="2021-10-21T23:51:16Z" duration-ms="693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SM.testCases.TC002_CheckSignUpLink_Test -->
+    </test> <!-- TC002_CheckSignUpLink_Test -->
+  </suite> <!-- Survey Monkey Regression Suite -->
+</testng-results>

@@ -1,0 +1,114 @@
+[INFO ] 20-10-2021 06:23:25.644 TC002_CheckSignUpLink_Test - *****Executing checkSignUpLinkTest*****
+[INFO ] 20-10-2021 06:23:25.667 TC002_CheckSignUpLink_Test - *****Web Driver is initiated*****
+[INFO ] 20-10-2021 06:23:25.706 TC002_CheckSignUpLink_Test - *****Check that SignUp link is present*****
+[INFO ] 20-10-2021 06:23:25.709 TC002_CheckSignUpLink_Test - *****Sign Up Link is present*****
+[INFO ] 20-10-2021 06:23:45.690 TC001_Login_Test - *****Executing LoginTest*****
+[INFO ] 20-10-2021 06:23:45.719 TC001_Login_Test - *****Web Driver is initiated*****
+[INFO ] 20-10-2021 06:23:45.852 TC001_Login_Test - *****Username entered is :  seleniumtraining1
+[INFO ] 20-10-2021 06:23:45.946 TC001_Login_Test - *****Password Entered is :  selenium1234
+[INFO ] 20-10-2021 06:23:46.130 TC001_Login_Test - *****Clicked on Login Button*****
+[INFO ] 20-10-2021 06:23:46.132 TC001_Login_Test - *****User logged in successfully*****
+[INFO ] 20-10-2021 06:25:55.954 TC002_CheckSignUpLink_Test - *****Executing checkSignUpLinkTest*****
+[INFO ] 20-10-2021 06:25:55.987 TC002_CheckSignUpLink_Test - *****Web Driver is initiated*****
+[INFO ] 20-10-2021 06:25:56.050 TC002_CheckSignUpLink_Test - *****Check that SignUp link is present*****
+[INFO ] 20-10-2021 06:25:56.052 TC002_CheckSignUpLink_Test - *****Sign Up Link is present*****
+[INFO ] 20-10-2021 06:34:50.941 TC001_Login_Test - *****Executing LoginTest*****
+[INFO ] 20-10-2021 06:34:50.968 TC001_Login_Test - *****Web Driver is initiated*****
+[INFO ] 20-10-2021 06:34:51.116 TC001_Login_Test - *****Username entered is :  seleniumtraining1
+[INFO ] 20-10-2021 06:34:51.285 TC001_Login_Test - *****Password Entered is :  selenium1234
+[INFO ] 20-10-2021 06:34:51.344 TC001_Login_Test - *****Clicked on Login Button*****
+[INFO ] 20-10-2021 06:34:51.346 TC001_Login_Test - *****User logged in successfully*****
+[INFO ] 20-10-2021 06:34:57.720 TC002_CheckSignUpLink_Test - *****Executing checkSignUpLinkTest*****
+[INFO ] 20-10-2021 06:34:57.721 TC002_CheckSignUpLink_Test - *****Web Driver is initiated*****
+[INFO ] 20-10-2021 06:34:57.756 TC002_CheckSignUpLink_Test - *****Check that SignUp link is present*****
+[INFO ] 20-10-2021 06:34:57.756 TC002_CheckSignUpLink_Test - *****Sign Up Link is present*****
+[INFO ] 20-10-2021 05:36:53.039 TC001_Login_Test - *****Chrome Browser will be launched*****
+[INFO ] 20-10-2021 05:36:59.108 TC001_Login_Test - *****Executing LoginTest*****
+[INFO ] 20-10-2021 05:36:59.132 TC001_Login_Test - *****Web Driver is initiated*****
+[INFO ] 20-10-2021 05:36:59.235 TC001_Login_Test - *****Username entered is :  seleniumtraining1
+[INFO ] 20-10-2021 05:36:59.387 TC001_Login_Test - *****Password Entered is :  selenium1234
+[INFO ] 20-10-2021 05:36:59.504 TC001_Login_Test - *****Clicked on Login Button*****
+[INFO ] 20-10-2021 05:36:59.507 TC001_Login_Test - *****User logged in successfully*****
+[INFO ] 20-10-2021 05:37:00.175 TC002_CheckSignUpLink_Test - *****Chrome Browser will be launched*****
+[INFO ] 20-10-2021 05:37:05.869 TC002_CheckSignUpLink_Test - *****Executing checkSignUpLinkTest*****
+[INFO ] 20-10-2021 05:37:05.869 TC002_CheckSignUpLink_Test - *****Web Driver is initiated*****
+[INFO ] 20-10-2021 05:37:05.901 TC002_CheckSignUpLink_Test - *****Check that SignUp link is present*****
+[INFO ] 20-10-2021 05:37:05.901 TC002_CheckSignUpLink_Test - *****Sign Up Link is present*****
+[INFO ] 21-10-2021 11:58:09.787 TC001_Login_Test - *****Chrome Browser will be launched*****
+[INFO ] 21-10-2021 11:58:15.670 TC001_Login_Test - *****Executing LoginTest*****
+[INFO ] 21-10-2021 11:58:15.688 TC001_Login_Test - *****Web Driver is initiated*****
+[INFO ] 21-10-2021 11:58:15.851 TC001_Login_Test - *****Username entered is :  seleniumtraining1
+[INFO ] 21-10-2021 11:58:15.989 TC001_Login_Test - *****Password Entered is :  selenium1234
+[INFO ] 21-10-2021 11:58:16.059 TC001_Login_Test - *****Clicked on Login Button*****
+[INFO ] 21-10-2021 11:58:16.398 TC001_Login_Test - *****Screenshot captured successfully*****
+[INFO ] 21-10-2021 11:58:16.399 TC001_Login_Test - *****User logged in successfully*****
+[INFO ] 21-10-2021 11:58:17.570 TC002_CheckSignUpLink_Test - *****Chrome Browser will be launched*****
+[INFO ] 21-10-2021 11:58:25.248 TC002_CheckSignUpLink_Test - *****Executing checkSignUpLinkTest*****
+[INFO ] 21-10-2021 11:58:25.248 TC002_CheckSignUpLink_Test - *****Web Driver is initiated*****
+[INFO ] 21-10-2021 11:58:25.282 TC002_CheckSignUpLink_Test - *****Check that SignUp link is present*****
+[INFO ] 21-10-2021 11:58:25.566 TC002_CheckSignUpLink_Test - *****Screenshot captured successfully*****
+[INFO ] 21-10-2021 11:58:25.567 TC002_CheckSignUpLink_Test - *****Sign Up Link is present*****
+[INFO ] 21-10-2021 07:32:50.255 TC001_Login_Test - *****Executing LoginTest*****
+[INFO ] 21-10-2021 07:32:50.321 TC001_Login_Test - *****Web Driver is initiated*****
+[INFO ] 21-10-2021 07:32:53.813 TC002_CheckSignUpLink_Test - *****Executing checkSignUpLinkTest*****
+[INFO ] 21-10-2021 07:32:53.814 TC002_CheckSignUpLink_Test - *****Web Driver is initiated*****
+[INFO ] 21-10-2021 07:33:13.540 TC001_Login_Test - *****Executing LoginTest*****
+[INFO ] 21-10-2021 07:33:13.568 TC001_Login_Test - *****Web Driver is initiated*****
+[INFO ] 21-10-2021 07:33:15.019 TC001_Login_Test - *****Username entered is :  seleniumtraining1
+[INFO ] 21-10-2021 07:33:16.373 TC001_Login_Test - *****Password Entered is :  selenium1234
+[INFO ] 21-10-2021 07:33:21.473 TC001_Login_Test - *****Clicked on Login Button*****
+[INFO ] 21-10-2021 07:33:21.778 TC001_Login_Test - *****Screenshot captured successfully*****
+[INFO ] 21-10-2021 07:33:21.780 TC001_Login_Test - *****User logged in successfully*****
+[INFO ] 21-10-2021 07:33:27.619 TC002_CheckSignUpLink_Test - *****Executing checkSignUpLinkTest*****
+[INFO ] 21-10-2021 07:33:27.619 TC002_CheckSignUpLink_Test - *****Web Driver is initiated*****
+[INFO ] 21-10-2021 07:33:27.665 TC002_CheckSignUpLink_Test - *****Check that SignUp link is present*****
+[INFO ] 21-10-2021 07:33:27.918 TC002_CheckSignUpLink_Test - *****Screenshot captured successfully*****
+[INFO ] 21-10-2021 07:33:27.919 TC002_CheckSignUpLink_Test - *****Sign Up Link is present*****
+[INFO ] 21-10-2021 07:35:38.586 TC001_Login_Test - *****Executing LoginTest*****
+[INFO ] 21-10-2021 07:35:38.615 TC001_Login_Test - *****Web Driver is initiated*****
+[INFO ] 21-10-2021 07:35:40.151 TC001_Login_Test - *****Username entered is :  seleniumtraining1
+[INFO ] 21-10-2021 07:35:41.514 TC001_Login_Test - *****Password Entered is :  selenium1234
+[INFO ] 21-10-2021 07:35:46.615 TC001_Login_Test - *****Clicked on Login Button*****
+[INFO ] 21-10-2021 07:35:46.905 TC001_Login_Test - *****Screenshot captured successfully*****
+[INFO ] 21-10-2021 07:35:46.907 TC001_Login_Test - *****User logged in successfully*****
+[INFO ] 21-10-2021 07:35:53.034 TC002_CheckSignUpLink_Test - *****Executing checkSignUpLinkTest*****
+[INFO ] 21-10-2021 07:35:53.034 TC002_CheckSignUpLink_Test - *****Web Driver is initiated*****
+[INFO ] 21-10-2021 07:35:53.064 TC002_CheckSignUpLink_Test - *****Check that SignUp link is present*****
+[INFO ] 21-10-2021 07:35:53.343 TC002_CheckSignUpLink_Test - *****Screenshot captured successfully*****
+[INFO ] 21-10-2021 07:35:53.343 TC002_CheckSignUpLink_Test - *****Sign Up Link is present*****
+[INFO ] 21-10-2021 07:50:59.669 TC001_Login_Test - *****Executing LoginTest*****
+[INFO ] 21-10-2021 07:50:59.700 TC001_Login_Test - *****Web Driver is initiated*****
+[INFO ] 21-10-2021 07:51:01.192 TC001_Login_Test - *****Username entered is :  seleniumtraining1
+[INFO ] 21-10-2021 07:51:02.560 TC001_Login_Test - *****Password Entered is :  selenium1234
+[INFO ] 21-10-2021 07:51:07.654 TC001_Login_Test - *****Clicked on Login Button*****
+[INFO ] 21-10-2021 07:51:07.986 TC001_Login_Test - *****Screenshot captured successfully*****
+[INFO ] 21-10-2021 07:51:07.989 TC001_Login_Test - *****User logged in successfully*****
+[INFO ] 21-10-2021 07:51:13.856 TC002_CheckSignUpLink_Test - *****Executing checkSignUpLinkTest*****
+[INFO ] 21-10-2021 07:51:13.856 TC002_CheckSignUpLink_Test - *****Web Driver is initiated*****
+[INFO ] 21-10-2021 07:51:15.257 TC002_CheckSignUpLink_Test - *****Check that SignUp link is present*****
+[INFO ] 21-10-2021 07:51:15.564 TC002_CheckSignUpLink_Test - *****Screenshot captured successfully*****
+[INFO ] 21-10-2021 07:51:15.564 TC002_CheckSignUpLink_Test - *****Sign Up Link is present*****
+[INFO ] 22-10-2021 05:29:41.550 TC001_Login_Test - *****Executing LoginTest*****
+[INFO ] 22-10-2021 05:29:41.610 TC001_Login_Test - *****Web Driver is initiated*****
+[INFO ] 22-10-2021 05:29:43.799 TC001_Login_Test - *****Username entered is :  seleniumtraining1
+[INFO ] 22-10-2021 05:29:45.731 TC001_Login_Test - *****Password Entered is :  selenium1234
+[INFO ] 22-10-2021 05:29:50.885 TC001_Login_Test - *****Clicked on Login Button*****
+[INFO ] 22-10-2021 05:29:51.509 TC001_Login_Test - *****Screenshot captured successfully*****
+[INFO ] 22-10-2021 05:29:51.515 TC001_Login_Test - *****User logged in successfully*****
+[INFO ] 22-10-2021 05:29:58.760 TC002_CheckSignUpLink_Test - *****Executing checkSignUpLinkTest*****
+[INFO ] 22-10-2021 05:29:58.762 TC002_CheckSignUpLink_Test - *****Web Driver is initiated*****
+[INFO ] 22-10-2021 05:30:00.646 TC002_CheckSignUpLink_Test - *****Check that SignUp link is present*****
+[INFO ] 22-10-2021 05:30:01.059 TC002_CheckSignUpLink_Test - *****Screenshot captured successfully*****
+[INFO ] 22-10-2021 05:30:01.060 TC002_CheckSignUpLink_Test - *****Sign Up Link is present*****
+[INFO ] 22-10-2021 05:35:55.553 TC001_Login_Test - *****Executing LoginTest*****
+[INFO ] 22-10-2021 05:35:55.619 TC001_Login_Test - *****Web Driver is initiated*****
+[INFO ] 22-10-2021 05:35:57.877 TC001_Login_Test - *****Username entered is :  seleniumtraining1
+[INFO ] 22-10-2021 05:35:59.779 TC001_Login_Test - *****Password Entered is :  selenium1234
+[INFO ] 22-10-2021 05:36:04.936 TC001_Login_Test - *****Clicked on Login Button*****
+[INFO ] 22-10-2021 05:36:05.548 TC001_Login_Test - *****Screenshot captured successfully*****
+[INFO ] 22-10-2021 05:36:05.550 TC001_Login_Test - *****User logged in successfully*****
+[INFO ] 22-10-2021 05:36:13.410 TC002_CheckSignUpLink_Test - *****Executing checkSignUpLinkTest*****
+[INFO ] 22-10-2021 05:36:13.412 TC002_CheckSignUpLink_Test - *****Web Driver is initiated*****
+[INFO ] 22-10-2021 05:36:15.486 TC002_CheckSignUpLink_Test - *****Check that SignUp link is present*****
+[INFO ] 22-10-2021 05:36:16.077 TC002_CheckSignUpLink_Test - *****Screenshot captured successfully*****
+[INFO ] 22-10-2021 05:36:16.077 TC002_CheckSignUpLink_Test - *****Sign Up Link is present*****
